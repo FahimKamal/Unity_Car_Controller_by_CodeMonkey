@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4768efd015cca749abf41274c4ab511, type: 3}
+  m_Name: FuelStation
+  m_EditorClassIdentifier: 
+  buildingName: Fuel Station
+  prefab: {fileID: 6313775476061426683, guid: 82b99061f8e121f419af2465c726a01c, type: 3}
+  constructionResourceTypeAmountList:
+  - resourceTypeSO: {fileID: 11400000, guid: d0ec7c20d73700c4abf904f2e8ef2a7a, type: 2}
+    amount: 50
+  - resourceTypeSO: {fileID: 11400000, guid: 12be113fc3c23b34ba33b8c2189bbd4b, type: 2}
+    amount: 20
+  - resourceTypeSO: {fileID: 11400000, guid: 889a035f25bd34d42ab729627a80564a, type: 2}
+    amount: 20

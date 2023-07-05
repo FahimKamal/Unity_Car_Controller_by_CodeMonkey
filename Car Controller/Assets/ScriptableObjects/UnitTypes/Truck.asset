@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ed7d757c5c0854cb3c0015c6162d32, type: 3}
+  m_Name: Truck
+  m_EditorClassIdentifier: 
+  unitName: Truck
+  sprite: {fileID: 21300000, guid: 2c82b6baaea3d6741ac66341ad2e4bf2, type: 3}
+  prefab: {fileID: 4080630289327631885, guid: f37962d18d6ce8049b3874afdf4bd04f, type: 3}
+  constructionTimerMax: 20
+  resourceTypeAmountList:
+  - resourceTypeSO: {fileID: 11400000, guid: d0ec7c20d73700c4abf904f2e8ef2a7a, type: 2}
+    amount: 30
+  - resourceTypeSO: {fileID: 11400000, guid: 889a035f25bd34d42ab729627a80564a, type: 2}
+    amount: 15

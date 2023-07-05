@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1e310e5869445b46a57ae4f4410c1b5, type: 3}
+  m_Name: Steel
+  m_EditorClassIdentifier: 
+  resourceName: Steel
+  sprite: {fileID: 21300000, guid: 869c8f4e202907344970116f2323592b, type: 3}
+  prefab: {fileID: 4030986069015109976, guid: 80fb6ddec4b7baa4f8972d4135a8553f, type: 3}
